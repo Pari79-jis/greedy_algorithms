@@ -1,4 +1,3 @@
-# greedy_algorithms
 Fractional Knapsack in C++
 
 A simple C++ implementation of the Fractional Knapsack greedy algorithm. Each item has a name, value, and weight. Unlike 0/1 Knapsack, items can be divided, so the solution may take a fraction of an item.
